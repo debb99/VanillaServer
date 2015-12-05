@@ -1,10 +1,114 @@
-[03:52:36] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[03:52:36] [Server thread/INFO]: Loading properties
-[03:52:36] [Server thread/INFO]: Default game type: SURVIVAL
-[03:52:36] [Server thread/INFO]: Generating keypair
-[03:52:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:52:36] [Server thread/INFO]: Using default channel type
-[03:52:37] [Server thread/INFO]: Preparing level "world"
-[03:52:37] [Server thread/INFO]: Preparing start region for level 0
-[03:52:38] [Server thread/INFO]: Preparing spawn area: 36%
-[03:52:38] [Server thread/INFO]: Done (1.651s)! For help, type "help" or "?"
+[01:31:16] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[01:31:16] [Server thread/INFO]: Loading properties
+[01:31:16] [Server thread/INFO]: Default game type: SURVIVAL
+[01:31:16] [Server thread/INFO]: Generating keypair
+[01:31:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:31:16] [Server thread/INFO]: Using default channel type
+[01:31:17] [Server thread/INFO]: Preparing level "world"
+[01:31:17] [Server thread/INFO]: Preparing start region for level 0
+[01:31:18] [Server thread/INFO]: Preparing spawn area: 15%
+[01:31:19] [Server thread/INFO]: Done (2.071s)! For help, type "help" or "?"
+[01:31:32] [User Authenticator #1/INFO]: UUID of player ReforgedHell is c33d9e00-0113-4733-a207-9c4d2754730e
+[01:31:33] [Server thread/INFO]: ReforgedHell[/71.211.124.70:59120] logged in with entity id 314 at (-277.9088087757723, 63.0, 164.016563489136)
+[01:31:33] [Server thread/INFO]: ReforgedHell joined the game
+[01:32:01] [User Authenticator #2/INFO]: UUID of player ThePhantomSpirit is bb06fe2d-df59-426b-8e39-162b9e564d2b
+[01:32:01] [Server thread/INFO]: ThePhantomSpirit[/192.168.1.118:58558] logged in with entity id 441 at (-277.73888883312867, 63.0, 166.83528424594573)
+[01:32:01] [Server thread/INFO]: ThePhantomSpirit joined the game
+[01:37:47] [Server thread/INFO]: ReforgedHell has just earned the achievement [Enchanter]
+[01:51:33] [Server thread/INFO]: [ReforgedHell: Set the time to 1000]
+[01:54:31] [Server thread/INFO]: ReforgedHell has just earned the achievement [Repopulation]
+[02:06:25] [Server thread/INFO]: ReforgedHell lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:06:25] [Server thread/INFO]: ReforgedHell left the game
+[02:06:45] [User Authenticator #3/INFO]: UUID of player ReforgedHell is c33d9e00-0113-4733-a207-9c4d2754730e
+[02:06:45] [Server thread/INFO]: ReforgedHell[/71.211.124.70:60679] logged in with entity id 60941 at (-773.6971406675874, 64.0, 273.34360582322495)
+[02:06:45] [Server thread/INFO]: ReforgedHell joined the game
+[02:13:30] [Server thread/INFO]: <ThePhantomSpirit> -276 63 167
+[02:19:38] [Server thread/INFO]: --- Showing help page 1 of 9 (/help <page>) ---
+[02:19:38] [Server thread/INFO]: /achievement <give|take> <stat_name|*> [player]
+[02:19:38] [Server thread/INFO]: /ban <name> [reason ...]
+[02:19:38] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[02:19:38] [Server thread/INFO]: /banlist [ips|players]
+[02:19:38] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[02:19:38] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[02:19:38] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[02:19:53] [Server thread/INFO]: --- Showing help page 2 of 9 (/help <page>) ---
+[02:19:53] [Server thread/INFO]: /debug <start|stop>
+[02:19:53] [Server thread/INFO]: /defaultgamemode <mode>
+[02:19:53] [Server thread/INFO]: /deop <player>
+[02:19:53] [Server thread/INFO]: /difficulty <new difficulty>
+[02:19:53] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
+[02:19:53] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
+[02:19:53] [Server thread/INFO]: /entitydata <entity> <dataTag>
+[02:20:04] [Server thread/INFO]: --- Showing help page 3 of 9 (/help <page>) ---
+[02:20:04] [Server thread/INFO]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <data> <command>
+[02:20:04] [Server thread/INFO]: /fill <x1> <y1> <z1> <x2> <y2> <z2> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+[02:20:04] [Server thread/INFO]: /gamemode <mode> [player]
+[02:20:04] [Server thread/INFO]: /gamerule <rule name> [value]
+[02:20:04] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[02:20:04] [Server thread/INFO]: /help [page|command name]
+[02:20:04] [Server thread/INFO]: /kick <player> [reason ...]
+[02:20:13] [Server thread/INFO]: --- Showing help page 4 of 9 (/help <page>) ---
+[02:20:13] [Server thread/INFO]: /kill [player|entity]
+[02:20:13] [Server thread/INFO]: /list
+[02:20:13] [Server thread/INFO]: /me <action ...>
+[02:20:13] [Server thread/INFO]: /op <player>
+[02:20:13] [Server thread/INFO]: /pardon <name>
+[02:20:13] [Server thread/INFO]: /pardon-ip <address>
+[02:20:13] [Server thread/INFO]: /particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode]
+[02:20:20] [Server thread/INFO]: There are 2/5 players online:
+[02:20:20] [Server thread/INFO]: ThePhantomSpirit, ReforgedHell
+[02:20:25] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[02:20:28] [Server thread/INFO]: --- Showing help page 5 of 9 (/help <page>) ---
+[02:20:28] [Server thread/INFO]: /playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[02:20:28] [Server thread/INFO]: /replaceitem <entity|block> ...
+[02:20:28] [Server thread/INFO]: /save-all
+[02:20:28] [Server thread/INFO]: /save-off
+[02:20:28] [Server thread/INFO]: /save-on
+[02:20:28] [Server thread/INFO]: /say <message ...>
+[02:20:28] [Server thread/INFO]: /scoreboard <objectives|players|teams> ...
+[02:20:37] [Server thread/INFO]: --- Showing help page 6 of 9 (/help <page>) ---
+[02:20:37] [Server thread/INFO]: /seed
+[02:20:37] [Server thread/INFO]: /setblock <x> <y> <z> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+[02:20:37] [Server thread/INFO]: /setidletimeout <Minutes until kick>
+[02:20:37] [Server thread/INFO]: /setworldspawn [<x> <y> <z>]
+[02:20:37] [Server thread/INFO]: /spawnpoint [player] [<x> <y> <z>]
+[02:20:37] [Server thread/INFO]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+[02:20:37] [Server thread/INFO]: /stats <entity|block> ...
+[02:20:50] [Server thread/INFO]: Saving...
+[02:20:51] [Server thread/INFO]: Saved the world
+[02:20:57] [Server thread/INFO]: --- Showing help page 7 of 9 (/help <page>) ---
+[02:20:57] [Server thread/INFO]: /stop
+[02:20:57] [Server thread/INFO]: /summon <EntityName> [x] [y] [z] [dataTag]
+[02:20:57] [Server thread/INFO]: /tell <player> <private message ...>
+[02:20:57] [Server thread/INFO]: /tellraw <player> <raw json message>
+[02:20:57] [Server thread/INFO]: /testfor <player> [dataTag]
+[02:20:57] [Server thread/INFO]: /testforblock <x> <y> <z> <TileName> [dataValue] [dataTag]
+[02:20:57] [Server thread/INFO]: /testforblocks <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [mode]
+[02:21:06] [Server thread/INFO]: --- Showing help page 8 of 9 (/help <page>) ---
+[02:21:06] [Server thread/INFO]: /time <set|add|query> <value>
+[02:21:06] [Server thread/INFO]: /title <player> <title|subtitle|clear|reset|times> ...
+[02:21:06] [Server thread/INFO]: /toggledownfall
+[02:21:06] [Server thread/INFO]: /tp [target player] <destination player> OR /tp [target player] <x> <y> <z> [<y-rot> <x-rot>]
+[02:21:06] [Server thread/INFO]: /trigger <objective> <add|set> <value>
+[02:21:06] [Server thread/INFO]: /weather <clear|rain|thunder> [duration in seconds]
+[02:21:06] [Server thread/INFO]: /whitelist <on|off|list|add|remove|reload>
+[02:21:12] [Server thread/INFO]: --- Showing help page 9 of 9 (/help <page>) ---
+[02:21:12] [Server thread/INFO]: /worldborder <set|center|damage|warning|get|add> ...
+[02:21:12] [Server thread/INFO]: /xp <amount> [player] OR /xp <amount>L [player]
+[02:22:13] [Server thread/INFO]: <ReforgedHell> w
+[02:33:15] [Server thread/INFO]: ReforgedHell has just earned the achievement [We Need to Go Deeper]
+[02:33:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11117ms behind, skipping 222 tick(s)
+[02:33:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13767ms behind, skipping 275 tick(s)
+[02:34:09] [Server thread/INFO]: ThePhantomSpirit has just earned the achievement [We Need to Go Deeper]
+[02:36:30] [Server thread/INFO]: ReforgedHell lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:36:30] [Server thread/INFO]: ReforgedHell left the game
+[02:36:33] [Server thread/INFO]: ThePhantomSpirit lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:36:33] [Server thread/INFO]: ThePhantomSpirit left the game
+[02:36:41] [Server thread/INFO]: Stopping the server
+[02:36:41] [Server thread/INFO]: Stopping server
+[02:36:41] [Server thread/INFO]: Saving players
+[02:36:41] [Server thread/INFO]: Saving worlds
+[02:36:41] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[02:36:41] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[02:36:41] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[02:36:42] [Server Shutdown Thread/INFO]: Stopping server
